@@ -1,0 +1,8 @@
+configparser
+queues
+requests
+urllib3
+requests
+ascii_colors
+fastapi
+httpx[http2]
